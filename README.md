@@ -23,7 +23,7 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
         <img 
             alt="LinkedIn" 
             title="Me adicione no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
