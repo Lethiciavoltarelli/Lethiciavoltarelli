@@ -9,7 +9,7 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://www.instagram.com/levoltarelli">
