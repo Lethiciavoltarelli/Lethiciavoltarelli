@@ -5,11 +5,11 @@
 Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua por conhecimento. Com experiência em áreas de infraestrutura, suporte e financeiro de TI, estou em constante aprendizado sobre segurança cibernética, desenvolvimento e soluções tecnológicas. Compartilho meus projetos, estudos e experiências aqui no GitHub, com o objetivo de contribuir para a comunidade e expandir meu portfólio na área de tecnologia.
 
 <p align="left">
-    <a href="https://github.com/Lethiciavoltarelli?tab=repositories&sort=stargazers">
+   <a href="https://www.linkedin.com/in/lethicia-voltarelli-689646316">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Lethiciavoltarelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/Lethiciavoltarelli?tab=followers">
@@ -19,11 +19,11 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
             src="https://custom-icon-badges.demolab.com/github/followers/LethiciaVoltarelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-   <a href="https://www.linkedin.com/in/lethicia-voltarelli-689646316">
+    <a href="https://github.com/Lethiciavoltarelli?tab=repositories&sort=stargazers">
         <img 
-            alt="LinkedIn" 
-            title="Me siga no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Lethiciavoltarelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
 </p>
