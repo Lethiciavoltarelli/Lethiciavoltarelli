@@ -67,7 +67,7 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethiciavoltarelli&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethiciavoltarelli&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=3" 
+    />
 
 </p>
