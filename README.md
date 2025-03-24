@@ -12,20 +12,18 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=8e7cc3"
         />
     </a>
-
-   <a href="https://www.coursera.org/user/your-profile-link">
-        <img 
-            alt="Coursera" 
-            title="Meu perfil no Coursera" 
-            src="https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=coursera&logoColor=white"
-        />
-    </a>
     <a href="https://www.instagram.com/levoltarelli">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
         />
+        </a> 
+        <a href="https://www.coursera.org/user/your-profile-link">
+        <img 
+            alt="Coursera" 
+            title="Meu perfil no Coursera" 
+            src="https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=coursera&logoColor=white"
     </a> 
     <a href="https://github.com/Lethiciavoltarelli?tab=followers">
         <img 
