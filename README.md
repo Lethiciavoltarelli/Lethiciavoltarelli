@@ -55,5 +55,5 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lethiciavoltarelli&theme=midnightpurple_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lethiciavoltarelli&theme=midnight-purple_icons=true)
           
