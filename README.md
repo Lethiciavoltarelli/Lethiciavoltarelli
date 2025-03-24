@@ -9,7 +9,7 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Lethiciavoltarelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Lethiciavoltarelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
     <a href="https://github.com/Lethiciavoltarelli?tab=followers">
@@ -23,10 +23,11 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
         <img 
             alt="LinkedIn" 
             title="Me adicione no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
+
 
 ---
 
