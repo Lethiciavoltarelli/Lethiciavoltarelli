@@ -12,6 +12,13 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/levoltarelli">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/Lethiciavoltarelli?tab=followers">
         <img 
             alt="Seguidores" 
@@ -22,11 +29,12 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
     <a href="https://github.com/Lethiciavoltarelli?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            title="Total de estrelas no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Lethiciavoltarelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
 </p>
+
 
 
 ---
