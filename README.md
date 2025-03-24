@@ -19,11 +19,11 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
             src="https://custom-icon-badges.demolab.com/github/followers/LethiciaVoltarelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/lethicia-voltarelli-689646316">
+   <a href="https://www.linkedin.com/in/lethicia-voltarelli-689646316">
         <img 
             alt="LinkedIn" 
-            title="Me adicione no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
