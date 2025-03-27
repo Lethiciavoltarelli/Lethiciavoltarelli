@@ -18,25 +18,24 @@ Sou uma jovem aprendiz de TI, apaixonada por tecnologia e pela busca contínua p
             title="Me siga no Instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
         />
-        </a> 
-        <a href="https://www.coursera.org/user/your-profile-link">
+      </a> 
+      <a href="https://www.coursera.org/user/your-profile-link">
         <img 
             alt="Coursera" 
             title="Meu perfil no Coursera" 
             src="https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=coursera&logoColor=white"
-    </a> 
-    <a href="https://github.com/Lethiciavoltarelli?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LethiciaVoltarelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     </a> 
     <a href="https://github.com/Lethiciavoltarelli?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Lethiciavoltarelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+      </a> 
+      <a href="https://github.com/Lethiciavoltarelli?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/LethiciaVoltarelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
